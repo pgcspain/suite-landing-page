@@ -39,7 +39,9 @@
     #bussiness-solution::after {
         content: '';
         position: absolute;
-        background: url('./assets/images/image-hero-portrait.webp') no-repeat center center;
+        background-image: url(/assets/images/image-hero-portrait.png);
+        background-repeat: no-repeat;
+        background-position: center center;
         height: 100%;
         width: 281px;
         z-index: 99;
