@@ -39,7 +39,7 @@
     #bussiness-solution::after {
         content: '';
         position: absolute;
-        background-image: url(main/assets/images/image-hero-portrait.webp);
+        background-image: url("../assets/images/image-hero-portrait.webp");
         background-repeat: no-repeat;
         background-position: center center;
         height: 100%;
@@ -159,7 +159,7 @@
     }
 
     #testimonials::before {
-        background-image: url(main/assets/images/image-jeremy-large.webp);
+        background-image: url("../assets/images/image-jeremy-large.webp");
         background-repeat: no-repeat;
         top: -27px;
         left: 121.49px;
