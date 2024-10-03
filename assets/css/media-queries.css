@@ -39,7 +39,7 @@
     #bussiness-solution::after {
         content: '';
         position: absolute;
-        background: url(https://github.com/pgcspain/suite-landing-page/tree/main/assets/images/image-hero-portrait.webp) no-repeat center center;
+        background: url(assets/images/image-hero-portrait.webp) no-repeat center center;
         height: 100%;
         width: 281px;
         z-index: 99;
@@ -157,7 +157,7 @@
     }
 
     #testimonials::before {
-        background: url(https://github.com/pgcspain/suite-landing-page/tree/main/assets/images/image-jeremy-large.png) no-repeat;
+        background: url(assets/images/image-jeremy-large.png) no-repeat;
         top: -27px;
         left: 121.49px;
         transform: scale(1.1);
