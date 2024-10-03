@@ -12,8 +12,7 @@
     header {
         width: 100%;
     }
-
-
+    
     #bussiness-solution {
         min-width: 550px;
         min-height: 452px;
@@ -40,7 +39,7 @@
     #bussiness-solution::after {
         content: '';
         position: absolute;
-        background: url(/assets/images/image-hero-portrait.webp) no-repeat center center;
+        background: url(suite-landing-page/assets/images/image-hero-portrait.webp) no-repeat center center;
         height: 100%;
         width: 281px;
         z-index: 99;
@@ -158,7 +157,7 @@
     }
 
     #testimonials::before {
-        background: url(/assets/images/image-jeremy-large.png) no-repeat;
+        background: url(suite-landing-page/assets/images/image-jeremy-large.png) no-repeat;
         top: -27px;
         left: 121.49px;
         transform: scale(1.1);
