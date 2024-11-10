@@ -177,10 +177,15 @@ h2 {
     width: 100%;
 }
 
+#testimonials-container img {
+    position: absolute;
+    top: -170px;
+}
+
 #testimonials::before {
     content: '';
     position: absolute;
-    background: url(/pgcspain/suite-landing-page/main/assets/images/image-jeremy-small.png) no-repeat top center;
+    background-image: url(/assets/images/image-jeremy-small.png) no-repeat top center;
     width: 100%;
     height: 100%;
     z-index: 99;
